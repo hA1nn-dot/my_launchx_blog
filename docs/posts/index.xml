@@ -8,6 +8,17 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://ha1nn-dot.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Ruta de aprendizaje LaunchX</title>
+      <link>https://ha1nn-dot.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ha1nn-dot.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Hey! 🤙 Hoy les compartiré todo lo que he aprendido a lo largo del curso de inducción de LaunchX
+Primeramente, describiré de lo general hasta los más específico, así que ¡vamos! 🚀
+Sesión OnBoarding 🦔  Phyton  Sesión Front-end 💻 🎨  Planeación de proyecto desde 0 HTML Propuesta de maquetación sobre una campaña de vacunación CSS JS Consumir API&amp;rsquo;s publicas (pokedex) Node JS (Estructuración y sistemas de ficheros) CI/CD con Github actions y Azure para desplegar nuestra página  Sesión Back-end 💻 ☄️  ¿Qué es lo más importante para un desarrollador de sofware?</description>
+    </item>
+    
+    <item>
       <title>La cultura del desarrollo de software</title>
       <link>https://ha1nn-dot.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
