@@ -8,14 +8,10 @@ menu:
 ## Who am I
 
 Hola, aquí vas a leer un poco sobre mi 🤩
+> Tengo 23 años, San Luis Potosí 🇲🇽
+> Soy pasante como Ingeniero en Tecnologías de la Información 👨‍💻
+> Dibujante digital principinte 🎨 
+> Apasionado por la tecnología y de formar parte de esta comunidad 🛰️
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
-
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+Me gusta principalmente jugar y actualmente estoy estudiando Inglés para obtener el certificado B2 de Cambridge
 
